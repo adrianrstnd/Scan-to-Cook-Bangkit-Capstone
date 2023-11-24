@@ -11,7 +11,7 @@ We will introduce the project we are working on with the theme of **Education, L
 
 ## The Team
 
-| Stundent ID |              Name                  |    Learning Path    |                                                                             Contact                                                                         |
+| Student ID |              Name                  |    Learning Path    |                                                                             Contact                                                                         |
 |:-----------:|:----------------------------------:|:-------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | M204BSY0513 |             Adrian                 |   Machine Learning  | <a href="https://github.com/adrianrstnd"><img src="https://img.shields.io/badge/Github-1F1717?style=for-the-badge&logo=github&logoColor=white%22"/></a>     |
 | M204BSY0512 | Calvin Samuel Angelino Simanjorang |   Machine Learning  | <a href="https://github.com/calvinsamuell"><img src="https://img.shields.io/badge/Github-1F1717?style=for-the-badge&logo=github&logoColor=white%22"/></a>   |
